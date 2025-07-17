@@ -1,4 +1,4 @@
-# 📘 Trabajo de Fin de Máster (TFM) – <Título del Proyecto>
+# 📘 Trabajo de Fin de Máster (TFM) – Aplicación de Técnicas de Machine Learning para la Predicción de Diferencias de Color Percibidas
 
 Este repositorio contiene el código y documentación asociados al Trabajo de Fin de Máster titulado **"<Título del Proyecto>"**, realizado por **Pablo Gallardo** para la obtención del título de **Máster en en Inteligencia de Negocio y Big Data en Entornos Seguros** por la **Universidad de Valladolid**.
 
