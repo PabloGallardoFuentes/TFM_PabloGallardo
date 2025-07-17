@@ -30,9 +30,11 @@ Este repositorio contiene el código y documentación asociados al Trabajo de Fi
 ```bash
 📦 tfm-proyecto
 ├── bbdd/                # Datos brutos
-├── notebooks/           # Notebooks de análisis y prototipado
+├── optuna/              # Optimizacion de optuna
+├── train_validate_test/ # Modelos finales que se han usado para evaluacion en el TFM
 ├── requirements.txt     # Dependencias
 ├── README.md            # Este archivo
+otros archivos generales y modelos de etapas iniciales
 ```
 
 ## 🚀 Ejecución del proyecto
