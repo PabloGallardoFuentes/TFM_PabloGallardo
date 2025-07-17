@@ -47,5 +47,6 @@ pip install -r requirements.txt
 ```
 3. Ejecutar el entrenamiento concreto y ver sus resultados
 ```bash
-Los modelos finales del TFM son los de la carpeta train_validate_test
+Los modelos finales del TFM son los de la carpeta train_validate_test.
+python .\train_validate_test\entrenamiento_train_validate_test_pytorch.py
 ```
